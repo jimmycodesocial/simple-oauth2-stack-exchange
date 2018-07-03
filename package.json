@@ -1,0 +1,37 @@
+{
+  "name": "simple-oauth2-stack-exchange",
+  "version": "0.5.0",
+  "description": "A simple Node.js client library for Stack Exchange OAuth2.",
+  "keywords": [
+    "oauth2",
+    "oauth2-client",
+    "stackexchange",
+    "stackexchange-api",
+    "stackoverflow",
+    "simple-oauth2"
+  ],
+  "author": "JimmyCode Social <hi@jimmycode.com>",
+  "contributors": [
+    {
+      "name": "Alberto Menendez Romero",
+      "url": "https://www.linkedin.com/in/albertomr86/"
+    }
+  ],
+  "homepage": "https://github.com/jimmycodesocial/simple-oauth2-stack-exchange",
+  "bugs": {
+    "url": "https://github.com/jimmycodesocial/simple-oauth2-stack-exchange/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmycodesocial/simple-oauth2-stack-exchange.git"
+  },
+  "engine": {
+    "node": ">=8.0"
+  },
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "simple-oauth2": "^2.2.0"
+  }
+}
