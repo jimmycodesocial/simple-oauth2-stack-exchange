@@ -1,6 +1,6 @@
 {
   "name": "simple-oauth2-stack-exchange",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A simple Node.js client library for Stack Exchange OAuth2.",
   "keywords": [
     "oauth2",
